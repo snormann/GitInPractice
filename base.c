@@ -12,6 +12,5 @@ int main( int   argc,
     
     gtk_main ();
     
-    return 0;
 }
 //just happened to use this file as my first in git (2nd comment)
