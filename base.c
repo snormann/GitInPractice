@@ -1,5 +1,5 @@
 #include <gtk/gtk.h>
-
+//2nd comment before main
 //add this comment before main
 int main( int   argc,
           char *argv[] )
