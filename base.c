@@ -7,7 +7,7 @@ int main( int   argc,
     GtkWidget *window;
     
     gtk_init (&argc, &argv);
-    
+    //comment added by work repository
     window = gtk_window_new (GTK_WINDOW_TOPLEVEL);
     gtk_widget_show  (window);
     
