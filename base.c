@@ -9,7 +9,8 @@ int main( int   argc,
 //added comment 10/30 8:47am initially on local test repo
     gtk_init (&argc, &argv);
     //comment added by work repository
-    window = gtk_window_new (GTK_WINDOW_TOPLEVEL);
+//added comment 10/30 8:59am first on test repo
+window = gtk_window_new (GTK_WINDOW_TOPLEVEL);
     gtk_widget_show  (window);
     
     gtk_main ();
