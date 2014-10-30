@@ -3,6 +3,7 @@
 //add this comment before main
 int main( int   argc,
           char *argv[] )
+//this comment made originally on chapter-two branch
 {
     GtkWidget *window;
     
