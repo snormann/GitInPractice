@@ -5,7 +5,7 @@ int main( int   argc,
           char *argv[] )
 {
     GtkWidget *window;
-    
+//conflict potential made on test  
 //added comment 10/30 8:47am initially on local test repo
     gtk_init (&argc, &argv);
     //comment added by work repository
