@@ -6,7 +6,7 @@ int main( int   argc,
 //this comment made originally on chapter-two branch
 {
     GtkWidget *window;
-    
+//a conflict from main directory    
 //added comment 10/30 8:47am initially on local test repo
     gtk_init (&argc, &argv);
     //comment added by work repository
