@@ -6,6 +6,7 @@ int main( int   argc,
 {
     GtkWidget *window;
     
+//added comment 10/30 8:47am initially on local test repo
     gtk_init (&argc, &argv);
     //comment added by work repository
     window = gtk_window_new (GTK_WINDOW_TOPLEVEL);
